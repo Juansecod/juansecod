@@ -31,7 +31,7 @@ Hello there! I'm Juan Sebastian, a Junior FullStack Web and a Software engineeri
 </div>
 
 ## 👾 My lifestyle
-I'm someone very fond of Japanese culture and anime. I also like to spend my free time playing video games.
+I'm someone very fond of Japanese culture and anime. I also like to spend my free time playing videogames.
 <div align="center">
   <a href="https://open.spotify.com/user/22satxe4rt5fqy4ruusxtrmri">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=22satxe4rt5fqy4ruusxtrmri&cover_image=true&theme=natemoo-re&bar_color=4771d1&bar_color_cover=true">
@@ -39,7 +39,7 @@ I'm someone very fond of Japanese culture and anime. I also like to spend my fre
 </div>
 
 ## ✉ Contact Me
-<div align="left">
+<div align="center">
     <a href="https://www.linkedin.com/in/Juansecode">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
