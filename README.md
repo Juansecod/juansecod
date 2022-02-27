@@ -25,7 +25,7 @@ Hello there! I'm Juan Sebastian, a Junior FullStack Web and a Software engineeri
 ## &#x1f4c8; GitHub Stats
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats#readme">
-        <img  height="138px" src="https://github-readme-stats.vercel.app/api?username=juansecod">
+        <img  height="138px" src="https://github-readme-stats.vercel.app/api?username=juansecod&hide=stars">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juansecod&layout=compact">
     </a>
 </div>
