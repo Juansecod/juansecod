@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>👨‍💻 Juansecode</b>
+  <img height="80" src="./assets/JUANSECODE.png"/>
 </h1>
 
 Hello there! I'm Juan Sebastian, a Junior FullStack Web and a Software engineering student. I have knowledge in:
