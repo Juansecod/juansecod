@@ -17,8 +17,14 @@ Hello there! I'm Juan Sebastian, a Junior FullStack Web and a Software engineeri
     <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     </a>
+    <a href="https://nodejs.org">
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    </a>
     <a href="https://reactjs.org/">
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    </a>
+   <a href="https://python.org/">
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     </a>
 </div>
 
